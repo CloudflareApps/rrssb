@@ -364,7 +364,7 @@
         "type": "object",
         "properties": {
           "keepUrlParameters": {
-            "title": "Use full URL, including any query parameters or hash, in the shared URL",
+            "title": "Use full URL (including all query params and hash)",
             "type": "boolean"
           }
         }
