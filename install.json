@@ -3,7 +3,7 @@
     "head": [
       {
         "type": "style",
-        "src": "./css/rrssb.css"
+        "src": "./install/install.css"
       }
     ],
     "body": [

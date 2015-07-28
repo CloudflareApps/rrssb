@@ -3,6 +3,7 @@ var gulp = require('gulp'),
     uglify = require('gulp-uglify'),
     autoprefixer = require('gulp-autoprefixer'),
     minifyCss = require('gulp-minify-css'),
+    cssVip = require("gulp-css-vip"),
     rename = require('gulp-rename'),
     filter = require('gulp-filter'),
     util = require('gulp-util'),
@@ -53,6 +54,13 @@ gulp.task('svg', function() {
 
 gulp.task('install.json', function() {
   require('./install/install.json.js');
+});
+
+gulp.task('install.css', function() {
+  gulp.src('./css/rrssb.css')
+  .pipe(cssVip())
+  .pipe(rename('install.css'))
+  .pipe(gulp.dest('./install/'));
 });
 
 gulp.task('default', ['serve']);
