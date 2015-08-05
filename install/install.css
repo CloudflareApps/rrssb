@@ -218,67 +218,56 @@
 
 .rrssb-buttons.large-format li:first-child:nth-last-child(1) a {
   font-size: 20px !important;
-  font-size: 4vw !important;
 }
 
 .rrssb-buttons.large-format li:first-child:nth-last-child(2) a,
 .rrssb-buttons.large-format li:first-child:nth-last-child(2)~li a {
   font-size: 16px !important;
-  font-size: 2vw !important;
 }
 
 .rrssb-buttons.large-format li:first-child:nth-last-child(3) a,
 .rrssb-buttons.large-format li:first-child:nth-last-child(3)~li a {
   font-size: 14px !important;
-  font-size: 1.7vw !important;
 }
 
 .rrssb-buttons.large-format li:first-child:nth-last-child(4) a,
 .rrssb-buttons.large-format li:first-child:nth-last-child(4)~li a {
   font-size: 13px !important;
-  font-size: 1.4vw !important;
 }
 
 .rrssb-buttons.large-format li:first-child:nth-last-child(5) a,
 .rrssb-buttons.large-format li:first-child:nth-last-child(5)~li a {
   font-size: 13px !important;
-  font-size: 1.2vw !important;
 }
 
 .rrssb-buttons.large-format li:first-child:nth-last-child(6) a,
 .rrssb-buttons.large-format li:first-child:nth-last-child(6)~li a {
   font-size: 12px !important;
-  font-size: 1.05vw !important;
 }
 
 .rrssb-buttons.large-format li:first-child:nth-last-child(7) a,
 .rrssb-buttons.large-format li:first-child:nth-last-child(7)~li a {
   font-size: 11px !important;
-  font-size: .9vw !important;
 }
 
 .rrssb-buttons.large-format li:first-child:nth-last-child(8) a,
 .rrssb-buttons.large-format li:first-child:nth-last-child(8)~li a {
   font-size: 11px !important;
-  font-size: .8vw !important;
 }
 
 .rrssb-buttons.large-format li:first-child:nth-last-child(9) a,
 .rrssb-buttons.large-format li:first-child:nth-last-child(9)~li a {
   font-size: 11px !important;
-  font-size: .7vw !important;
 }
 
 .rrssb-buttons.large-format li:first-child:nth-last-child(10) a,
 .rrssb-buttons.large-format li:first-child:nth-last-child(10)~li a {
   font-size: 11px !important;
-  font-size: .6vw !important;
 }
 
 .rrssb-buttons.large-format li:first-child:nth-last-child(11) a,
 .rrssb-buttons.large-format li:first-child:nth-last-child(11)~li a {
   font-size: 11px !important;
-  font-size: .5vw !important;
 }
 
 .rrssb-buttons.large-format li a {
